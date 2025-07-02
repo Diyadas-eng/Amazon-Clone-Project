@@ -1,2 +1,2 @@
 # Amazon-Clone-Project
- My First Fornted project. 
+ My First Forntend project. 
